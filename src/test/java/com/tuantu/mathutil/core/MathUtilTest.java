@@ -21,7 +21,7 @@ public class MathUtilTest {
     //choi DDT tach data ra khoi cau lenh kiem thu, tham so hoa data nay
     //vao trong cau lenh kiem thu
     
-    //chuan bi  bo data
+    //chuan bi bo vao data
     
     public static Object[][] initData(){
         return new Integer[][] {

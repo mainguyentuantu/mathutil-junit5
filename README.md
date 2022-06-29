@@ -1,0 +1,1 @@
+[![CI with GitHub Actions using Maven and JUnit | © 2022 by tuantu.flex](https://github.com/mainguyentuantu/mathutil-junit5/actions/workflows/ci-with-maven.yml/badge.svg)](https://github.com/mainguyentuantu/mathutil-junit5/actions/workflows/ci-with-maven.yml)
